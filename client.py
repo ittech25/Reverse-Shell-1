@@ -2,7 +2,7 @@ import socket,pyautogui,cv2
 import subprocess as sb
 from os import chdir,system
 
-#YOU HAVE TO CHANGE SERVER_IP and SERVER_PORT! It's necessary.
+#YOU HAVE TO CHANGE SERVER_IP! It's necessary.
 server_ip = "192.168.1.128"
 server_port = 9999
 s=None #Socket name
