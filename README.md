@@ -1,6 +1,6 @@
 # Reverse Shell
 This tool written to understand basic networking concepts.You have to configure client.py file before running it.(Look at the 5th line)
-Finally,you have to install cv2 and pyautogui libraries on client' computer.
+Finally,you have to install cv2 and pyautogui libraries on client's computer.
 
 **CommandLine~$ python3 server.py**
 
